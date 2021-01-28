@@ -5,10 +5,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "$5",
-    "feeHint": {
-      "id": "ETH2_SERVICE_BY_MONTH",
-      "defaultMessage": "month"
-    },
+    "feeType": "MONTHLY_PAYMENT",
     "networks": 4,
     "location": "United States",
     "socials": [
@@ -32,6 +29,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "Germany",
     "socials": [
@@ -47,10 +45,7 @@
     "type": "?",
     "stake": "any",
     "fee": "10%",
-    "feeHint": {
-      "id": "ETH2_SERVICE_OF_REWARDS",
-      "defaultMessage": "Of Rewards"
-    },
+    "feeType": "REWARDS_PERCENTAGE",
     "networks": 52,
     "location": "United States",
     "socials": [
@@ -70,10 +65,7 @@
     "type": "non-custodial",
     "stake": "1000 ETH",
     "fee": "12.5%",
-    "feeHint": {
-      "id": "ETH2_SERVICE_OF_REWARDS",
-      "defaultMessage": "Of Rewards"
-    },
+    "feeType": "REWARDS_PERCENTAGE",
     "networks": 1,
     "location": "United Kingdom",
     "socials": [
@@ -97,6 +89,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 23,
     "location": "China",
     "socials": [
@@ -116,6 +109,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 9,
     "location": "United States",
     "socials": [
@@ -131,10 +125,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "15%",
-    "feeHint": {
-      "id": "ETH2_SERVICE_OF_REWARDS",
-      "defaultMessage": "Of Rewards"
-    },
+    "feeType": "REWARDS_PERCENTAGE",
     "networks": 7,
     "location": "Switzerland",
     "socials": [
@@ -150,6 +141,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 17,
     "location": "Ireland",
     "socials": [
@@ -165,6 +157,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "Israel",
     "socials": [
@@ -188,6 +181,7 @@
     "type": "?",
     "stake": "?",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": "?",
     "location": "United States",
     "socials": [
@@ -203,6 +197,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 4,
     "location": "?",
     "socials": [
@@ -218,6 +213,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 13,
     "location": "?",
     "socials": [
@@ -241,6 +237,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 2,
     "location": "United States",
     "socials": [
@@ -256,6 +253,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "?",
     "socials": [
@@ -271,6 +269,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 8,
     "location": "Romania",
     "socials": [
@@ -286,6 +285,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": "?",
     "location": "Canada",
     "socials": [
@@ -301,6 +301,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 24,
     "location": "Ukraine",
     "socials": [
@@ -320,6 +321,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 25,
     "location": "Canada",
     "socials": [
@@ -343,6 +345,7 @@
     "type": "?",
     "stake": "?",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "United Kingdom",
     "socials": []
@@ -353,6 +356,7 @@
     "type": "?",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "?",
     "socials": [
@@ -376,6 +380,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 13,
     "location": "Russia",
     "socials": [
@@ -395,6 +400,7 @@
     "type": "?",
     "stake": "?",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 1,
     "location": "Australia",
     "socials": [
@@ -414,6 +420,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 30,
     "location": "France",
     "socials": [
@@ -429,10 +436,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "$5",
-    "feeHint": {
-      "id": "ETH2_SERVICE_TABLE_PER_VAL",
-      "defaultMessage": "per val."
-    },
+    "feeType": "ONE_TIME_PER_VAL",
     "networks": 28,
     "location": "United States",
     "socials": [
@@ -452,10 +456,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "0.1 ETH",
-    "feeHint": {
-      "id": "ETH2_SERVICE_ONCE",
-      "defaultMessage": "one time"
-    },
+    "feeType": "ONE_TIME_PER_VAL",
     "networks": 12,
     "location": "Global",
     "socials": [
@@ -476,10 +477,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "10%",
-    "feeHint": {
-      "id": "ETH2_SERVICE_OF_REWARDS",
-      "defaultMessage": "Of Rewards"
-    },
+    "feeType": "REWARDS_PERCENTAGE",
     "networks": 1,
     "location": "Estonia",
     "socials": [
@@ -503,10 +501,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "10 DAI",
-    "feeHint": {
-      "id": "ETH2_SERVICE_TABLE_PER_VAL_MONTH",
-      "defaultMessage": "per val./month"
-    },
+    "feeType": "MONTHLY_PAYMENT",
     "networks": 1,
     "location": "Estonia",
     "socials": [
@@ -530,6 +525,7 @@
     "type": "non-custodial",
     "stake": "32 ETH",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 7,
     "location": "Germany",
     "socials": [
@@ -549,6 +545,7 @@
     "type": "Custodial",
     "stake": "?",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": "?",
     "location": "?",
     "socials": [
@@ -568,6 +565,7 @@
     "type": "custodial",
     "stake": "any",
     "fee": "?",
+    "feeType": "UNKNOWN",
     "networks": 2,
     "location": "Singapore",
     "socials": [
