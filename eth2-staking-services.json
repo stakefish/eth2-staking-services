@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Allnodes",
+    "website": "https://allnodes.com/eth2/staking",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "$5",
+    "feeHint": {
+      "id": "ETH2_SERVICE_BY_MONTH",
+      "defaultMessage": "month"
+    },
+    "networks": 4,
+    "location": "United States",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/allnodes"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/allnodes"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.allnodes.com"
+      }
+    ]
+  },
+  {
+    "name": "AllYouCanStake",
+    "website": "https://allyoucanstake.de/our-services",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "?",
+    "networks": 1,
+    "location": "Germany",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/AllYouCanStake"
+      }
+    ]
+  },
+  {
+    "name": "Ankr",
+    "website": "https://ankr.com",
+    "type": "?",
+    "stake": "any",
+    "fee": "10%",
+    "feeHint": {
+      "id": "ETH2_SERVICE_OF_REWARDS",
+      "defaultMessage": "Of Rewards"
+    },
+    "networks": 52,
+    "location": "United States",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/ankrnetwork"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ankr"
+      }
+    ]
+  },
+  {
+    "name": "Attestant",
+    "website": "https://attestant.io",
+    "type": "non-custodial",
+    "stake": "1000 ETH",
+    "fee": "12.5%",
+    "feeHint": {
+      "id": "ETH2_SERVICE_OF_REWARDS",
+      "defaultMessage": "Of Rewards"
+    },
+    "networks": 1,
+    "location": "United Kingdom",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/attestant"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/attestantio"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/4A2Cpr8"
+      }
+    ]
+  },
+  {
+    "name": "Binance",
+    "website": "https://binance.com/staking",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "?",
+    "networks": 23,
+    "location": "China",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/binanceexchange"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/binance"
+      }
+    ]
+  },
+  {
+    "name": "Bison Trails",
+    "website": "https://bisontrails.co/delegate",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 9,
+    "location": "United States",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/bisontrails"
+      }
+    ]
+  },
+  {
+    "name": "Bitcoin Suisse",
+    "website": "https://bitcoinsuisse.com/staking/ethereum-2",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "15%",
+    "feeHint": {
+      "id": "ETH2_SERVICE_OF_REWARDS",
+      "defaultMessage": "Of Rewards"
+    },
+    "networks": 7,
+    "location": "Switzerland",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/bitcoinsuisseag"
+      }
+    ]
+  },
+  {
+    "name": "Blockdaemon",
+    "website": "https://blockdaemon.com",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 17,
+    "location": "Ireland",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/_blockdaemon"
+      }
+    ]
+  },
+  {
+    "name": "Bloxstaking",
+    "website": "https://bloxstaking.com",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 1,
+    "location": "Israel",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/blox_product_discussion"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/blox_staking"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/eDXSP9R"
+      }
+    ]
+  },
+  {
+    "name": "CertiK",
+    "website": "https://noops.certik.io",
+    "type": "?",
+    "stake": "?",
+    "fee": "?",
+    "networks": "?",
+    "location": "United States",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/certik_io"
+      }
+    ]
+  },
+  {
+    "name": "Certus One",
+    "website": "https://certus.one/delegate",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 4,
+    "location": "?",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CertusOne"
+      }
+    ]
+  },
+  {
+    "name": "Chorus One",
+    "website": "https://chorus.one",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 13,
+    "location": "?",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://chorus.one/telegram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/chorusone"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/bQ6JWVa"
+      }
+    ]
+  },
+  {
+    "name": "Coinbase",
+    "website": "https://coinbase.com/staking",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "?",
+    "networks": 2,
+    "location": "United States",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/coinbase"
+      }
+    ]
+  },
+  {
+    "name": "Consensys Codefi",
+    "website": "https://codefi.consensys.net/staking",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 1,
+    "location": "?",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ConsenSysCodefi"
+      }
+    ]
+  },
+  {
+    "name": "Dokia Capital",
+    "website": "https://staking.dokia.cloud",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 8,
+    "location": "Romania",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/DokiaCapital"
+      }
+    ]
+  },
+  {
+    "name": "Ethercapital",
+    "website": "https://www.ethcap.co",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": "?",
+    "location": "Canada",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ethcap"
+      }
+    ]
+  },
+  {
+    "name": "Everstake",
+    "website": "https://everstake.one",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "?",
+    "networks": 24,
+    "location": "Ukraine",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/everstake_chat"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/everstake_pool"
+      }
+    ]
+  },
+  {
+    "name": "Figment Networks",
+    "website": "https://figment.network",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 25,
+    "location": "Canada",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/figmentnetworks"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Figment_io"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Bx7cG8cZ"
+      }
+    ]
+  },
+  {
+    "name": "Launchnodes",
+    "website": "https://launchnodes.com",
+    "type": "?",
+    "stake": "?",
+    "fee": "?",
+    "networks": 1,
+    "location": "United Kingdom",
+    "socials": []
+  },
+  {
+    "name": "Lido",
+    "website": "https://lido.fi",
+    "type": "?",
+    "stake": "any",
+    "fee": "?",
+    "networks": 1,
+    "location": "?",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/lidofinance"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/lidofinance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/vgdPfhZ"
+      }
+    ]
+  },
+  {
+    "name": "P2P",
+    "website": "https://p2p.org",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 13,
+    "location": "Russia",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/P2Pstaking"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/p2pvalidator"
+      }
+    ]
+  },
+  {
+    "name": "Rocket Pool",
+    "website": "https://rocketpool.net",
+    "type": "?",
+    "stake": "?",
+    "fee": "?",
+    "networks": 1,
+    "location": "Australia",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Rocket_Pool"
+      },
+      {
+        "name": "discord",
+        "url": "https://discordapp.com/invite/tCRG54c"
+      }
+    ]
+  },
+  {
+    "name": "Stake Capital",
+    "website": "https://stake.capital",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 30,
+    "location": "France",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/StakeCapital"
+      }
+    ]
+  },
+  {
+    "name": "Staked.us",
+    "website": "https://staked.us",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "$5",
+    "feeHint": {
+      "id": "ETH2_SERVICE_TABLE_PER_VAL",
+      "defaultMessage": "per val."
+    },
+    "networks": 28,
+    "location": "United States",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/staked_us"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ddHep6E"
+      }
+    ]
+  },
+  {
+    "name": "Stakefish",
+    "website": "https://stake.fish/ethereum",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "0.1 ETH",
+    "feeHint": {
+      "id": "ETH2_SERVICE_ONCE",
+      "defaultMessage": "one time"
+    },
+    "networks": 12,
+    "location": "Global",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/stakefish"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/stakefish"
+      }
+    ],
+    "className": "text-lowercase"
+  },
+  {
+    "name": "Stakewise Pool",
+    "website": "https://stakewise.io/app/pools",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "10%",
+    "feeHint": {
+      "id": "ETH2_SERVICE_OF_REWARDS",
+      "defaultMessage": "Of Rewards"
+    },
+    "networks": 1,
+    "location": "Estonia",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/stakewise_io"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/stakewise_io"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/2BSdr2g"
+      }
+    ]
+  },
+  {
+    "name": "Stakewise Solo",
+    "website": "https://stakewise.io/app/pools",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "10 DAI",
+    "feeHint": {
+      "id": "ETH2_SERVICE_TABLE_PER_VAL_MONTH",
+      "defaultMessage": "per val./month"
+    },
+    "networks": 1,
+    "location": "Estonia",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/stakewise_io"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/stakewise_io"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/2BSdr2g"
+      }
+    ]
+  },
+  {
+    "name": "Staking Facilities",
+    "website": "https://stakingfacilities.com",
+    "type": "non-custodial",
+    "stake": "32 ETH",
+    "fee": "?",
+    "networks": 7,
+    "location": "Germany",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/stakingfacilities"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/stakingfac"
+      }
+    ]
+  },
+  {
+    "name": "Stakehound",
+    "website": "https://stakehound.com",
+    "type": "Custodial",
+    "stake": "?",
+    "fee": "?",
+    "networks": "?",
+    "location": "?",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/stakehound"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/stakedTokens"
+      }
+    ]
+  },
+  {
+    "name": "Token Pocket",
+    "website": "https://tokenpocket.pro",
+    "type": "custodial",
+    "stake": "any",
+    "fee": "?",
+    "networks": 2,
+    "location": "Singapore",
+    "socials": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/tokenPocket_en"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TokenPocket_TP"
+      }
+    ]
+  }
+]
